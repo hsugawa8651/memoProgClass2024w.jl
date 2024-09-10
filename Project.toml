@@ -1,0 +1,13 @@
+name = "memoProgClass2024w"
+uuid = "2259fd80-1a5e-4474-9854-9aa41bdb5e72"
+authors = ["Hiroharu Sugawara <hsugawa@gmail.com> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.10"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
